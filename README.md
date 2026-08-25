@@ -29,7 +29,6 @@ Estudante de **Engenharia de Software** do 6º período, interessado em desenvol
 ### Banco de Dados
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![H2](https://img.shields.io/badge/H2-1E90FF?style=for-the-badge\&logo=h2\&logoColor=white)
 
 ### Ferramentas
 
