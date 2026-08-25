@@ -73,4 +73,3 @@ Busco transformar conhecimento teórico em **experiência prática através de p
 
 ---
 
-> "Software engineering is not just about writing code. It's about solving problems."
