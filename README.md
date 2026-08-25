@@ -3,9 +3,7 @@
 
 ### Software Engineering Student | Backend Developer
 
-Estudante de **Engenharia de Software**, interessado em desenvolvimento backend, arquitetura de software e construção de sistemas robustos e bem estruturados.
-
-Atualmente venho aprofundando meus conhecimentos em **Java, Spring Boot, APIs REST, bancos de dados, testes e boas práticas de desenvolvimento**, aplicando esses conceitos em projetos próprios.
+Estudante de **Engenharia de Software** do 6º período, interessado em desenvolvimento backend, arquitetura de software e construção de sistemas robustos e bem estruturados. Atualmente venho aprofundando meus conhecimentos em **Java, Spring Boot, APIs REST, bancos de dados, testes e boas práticas de desenvolvimento**
 
 ---
 
